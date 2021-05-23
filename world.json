@@ -11,7 +11,7 @@
   "packs": [],
   "languages": [],
   "authors": [
-    "chrisesharp"
+    "Racooze"
   ],
   "keywords": [],
   "socket": false,
@@ -30,62 +30,10 @@
     {
       "name": "dnd5e",
       "type": "system"
-    },
-    {
-      "name": "about-time",
-      "type": "module"
-    },
-    {
-      "name": "betterrolls5e",
-      "type": "module"
-    },
-    {
-      "name": "dice-so-nice",
-      "type": "module"
-    },
-    {
-      "name": "fantasy-ui",
-      "type": "module"
-    },
-    {
-      "name": "lib-wrapper",
-      "type": "module"
-    },
-    {
-      "name": "minimal-ui",
-      "type": "module"
-    },
-    {
-      "name": "monks-little-details",
-      "type": "module"
-    },
-    {
-      "name": "playlist-drag-and-drop",
-      "type": "module"
-    },
-    {
-      "name": "playlist_import",
-      "type": "module"
-    },
-    {
-      "name": "playlist-ui",
-      "type": "module"
-    },
-    {
-      "name": "popout",
-      "type": "module"
-    },
-    {
-      "name": "tidy-ui_game-settings",
-      "type": "module"
-    },
-    {
-      "name": "tidy5e-sheet",
-      "type": "module"
     }
   ],
   "nextSession": "1970-01-01T00:00:00.000Z",
   "availability": 0,
   "unavailable": false,
-  "id": "greke-prison"
+  "id": "gekre-prison"
 }

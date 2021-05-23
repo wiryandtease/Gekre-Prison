@@ -24,7 +24,7 @@
   "socket": false,
   "url": "https://github.com/wiryandtease/Gekle-Prison",
   "manifest": "https://raw.githubusercontent.com/wiryandtease/Gekre-Prison/main/world.json",
-  "download": "https://github.com/wiryandtease/Gekre-Prison/raw/main/packages/gekre-prison-v0.0.1.zip",
+  "download": "https://raw.github.com/wiryandtease/Gekre-Prison/main/packages/gekre-prison-v0.0.1.zip",
   "license": "",
   "readme": "",
   "bugs": "",

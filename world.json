@@ -34,51 +34,51 @@
     {
       "name": "about-time",
       "type": "module"
-    }
+    },
     {
       "name": "betterrolls5e",
       "type": "module"
-    }
+    },
     {
       "name": "dice-so-nice",
       "type": "module"
-    }
+    },
     {
       "name": "fantasy-ui",
       "type": "module"
-    }
+    },
     {
       "name": "lib-wrapper",
       "type": "module"
-    }
+    },
     {
       "name": "minimal-ui",
       "type": "module"
-    }
+    },
     {
       "name": "monks-little-details",
       "type": "module"
-    }
+    },
     {
       "name": "playlist-drag-and-drop",
       "type": "module"
-    }
+    },
     {
       "name": "playlist_import",
       "type": "module"
-    }
+    },
     {
       "name": "playlist-ui",
       "type": "module"
-    }
+    },
     {
       "name": "popout",
       "type": "module"
-    }
+    },
     {
       "name": "tidy-ui_game-settings",
       "type": "module"
-    }
+    },
     {
       "name": "tidy5e-sheet",
       "type": "module"
